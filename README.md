@@ -1,0 +1,2 @@
+# django-beginning-
+Study purpose 
